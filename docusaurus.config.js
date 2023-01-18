@@ -164,7 +164,7 @@ module.exports = {
               },
               {
                 label: 'Product Changelog',
-                to: '/product_changelog',
+                to: '/product-changelog',
               },
               {
                 label: 'Contributors Guide',
